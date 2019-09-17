@@ -2,9 +2,9 @@
 
 Table of Contents:  
 
-a. [](#)  <br>  
+a. [Additional Resources](#Additional-Resources)  <br>  
 b. [](#)  <br>  
-c. [](#)  <br>
+c. [](#)  <br>  
 d. [](#)  <br>  
 e. [](#)  <br>  
 f. [](#)  <br>  
