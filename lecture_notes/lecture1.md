@@ -25,7 +25,8 @@ i. [](#)  <br>
 
 #### Assignment
 
-[Research Planning UX8 - Glenn Ference](https://youtu.be/38N-MLpaWlw)  
+[Research Planning UX8 - Glenn Ference](https://youtu.be/38N-MLpaWlw) 
+[Research Planning UXPT3 - Corey Nelson]()   
 
 [Research Planning Assignment](https://docs.google.com/document/d/1X4x7Y3NJaukchTuj0dqV7I6iBDTuxxKvKJtl-NxM6CM/edit)  
 
@@ -34,6 +35,56 @@ i. [](#)  <br>
 [Milanote](https://milanote.com), an in-browser app to organize research and project flow.
 
 <br>
+
+## Types of Research
+
+### Survey
+
+One of the best quantitatve research methods are surveys, which are used to receive user feedback from large groups of people that can shape the direction of the project.
+
+It helps clarify the user base with statistical analysis.
+
+<br>
+
+### Contextual Inquiry
+
+This is when we observe the user in their natural, day-to-day environment to understand how they engage with the product or service. This helps understand how the application with fit into their life without being interruptive.
+
+It's useful for developing empathy for the user and seeing the full context of their behavior (as opposed to in a lab).
+
+<br>
+
+### Focus Group
+
+A small curated group whose reactions are studied to predict the opinions of the larger public.
+
+Group Think is a possible issue to be aware of where the opinion of the group is influenced by a particularly vocal member. They may also just tell you what they think you want to hear, rather than their own opinion.
+
+<br>
+
+### Usability Testing
+
+In an interview setting, watching a user use the product/service, looking for any issues with their ability to succesfully navigate it.
+
+Because it's in a controlled setting, it can't fully mimic how a user would implement this within their daily life.
+
+<br>
+
+### Analytics
+
+Analytics provides a lot of tactical data -- it's not based on opinions or feelings. Instead, it shows where the user clicked or when they exited, etc. It shows their actual behavior within the application (without their reaction). It's data driven.
+
+<br>
+
+### Competitive Analysis
+
+Taking a look at what the company's competitors are doing to see what they might be doing better or seek to understand why they chose an alternate approach.
+
+It can shows gaps where your product/service could excel with better implementation, or it might reveal paradigms that well established companies have setup users to expect.
+
+<br>
+<br>
+
 
 ## Student Toolkit Information
 
