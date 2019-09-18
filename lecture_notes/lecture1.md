@@ -3,14 +3,10 @@
 Table of Contents:  
 
 a. [Additional Resources](#Additional-Resources)  <br>  
-b. [](#)  <br>  
-c. [](#)  <br>  
-d. [](#)  <br>  
-e. [](#)  <br>  
-f. [](#)  <br>  
-g. [](#)  <br>  
-h. [](#)  <br>  
-i. [](#)  <br>    
+b. [Types of Research](#Types-of-Research)  <br>  
+c. [Assumptions](#Assumptions)  <br>  
+d. [Asking Questions](#Asking-Questions)  <br>  
+e. [Student Toolkit Information](#Student-Toolkit-Information)  <br>  
 
 <br>
 
@@ -36,7 +32,7 @@ i. [](#)  <br>
 
 [Miro](http://miro.com), a team collaboration browser software to help create project flows with Kanban boards, notes, and diagrams.
 
-[Research Interview Guide Templae](https://docs.google.com/document/d/1GzNaxRPZBrhnb6TWgz0LS1xq9UbL7a5ffqCZ09Xrb0g/edit?usp=sharing)  
+[Research Interview Guide Template](https://docs.google.com/document/d/1GzNaxRPZBrhnb6TWgz0LS1xq9UbL7a5ffqCZ09Xrb0g/edit?usp=sharing), to help outline how to conduct an interview well.
 
 <br>
 
