@@ -34,6 +34,10 @@ i. [](#)  <br>
 
 [Milanote](https://milanote.com), an in-browser app to organize research and project flow.
 
+[Miro](http://miro.com), a team collaboration browser software to help create project flows with Kanban boards, notes, and diagrams.
+
+[Research Interview Guide Templae](https://docs.google.com/document/d/1GzNaxRPZBrhnb6TWgz0LS1xq9UbL7a5ffqCZ09Xrb0g/edit?usp=sharing)  
+
 <br>
 
 ## Types of Research
@@ -85,6 +89,136 @@ It can shows gaps where your product/service could excel with better implementat
 <br>
 <br>
 
+## Assumptions
+
+Let's look at this brief:
+
+![Flutter iOS Brief](./FlutterIOS.png "Flutter iOS Brief")
+
+We're going to make some assumptions based on the brief about what the client is looking for (like, "Fully featured app store", "focus on speed").
+
+Other things that stand out:
+
+> Ages 18-35  
+> Secure  
+> Voice and video chat  
+> Stickers  
+> Games  
+> Fully-featured app store  
+> Cutting edge technology  
+> Needs to be generalized enough to expand in the future  
+> Function regardless of platform (across devices and operating systems)  
+
+<br>
+
+Another way to approach this would be to answer these questions when thinking about the brief:
+
+```
+I believe my users have a need to____________.
+I believe these needs can be solved with____________.
+I believe the #1 value a user wants to get out of this is____________.
+I believe the user can also get these additional benefits____________.
+I believe my biggest product risk is____________.
+```
+
+<br>
+
+We can then map our assumptions onto a map that looks like so, asking where on these charts each one falls based on the *User's perspective*:
+
+```
+
+                High Risk
+                    |
+                    |
+                    |
+                    |
+Known ---------------------------- Unknown
+                    |
+                    |
+                    |
+                    |
+                Low Risk
+```
+
+Building out a fully featured app store would fall into the `High Risk` and `Unknown` quadrant, because we don't yet _know_ if the users need that feature, while we do know that it would take immense time and resources for the output.
+
+<br>
+
+A fast messaging app falls under `Known` because existing apps are not slow so the industry standard and user expectation will be for a fast messaging app. It might also be `Low Risk` because it's being commonly done, so it should be possible to execute.
+
+<br>
+
+A highly secure messaging platform is in the middle of `Known` and `Unknown` because it may mean different things to different users based on demographics. What is "secure"? Is it their top priority? That might need research. For determining risk level, how much time will it take to implement? Do we need to worry about it?
+
+We ultimately would place this pretty much in the center because there is a lot of user perspective driving this as a positive feature, but also a lot of unknowns that need to be established through research.
+
+<br>
+
+`Our users will want to use this app with friends` is `Low Risk` and `Known` because the brief is about a social messaging app.
+
+<br>
+
+An important aspect to keep in mind when evaluating features is having a diverse group perspective to provide input that challenge our personal biases and highlight need to accessibility.
+
+The team, at this point, won't have information about the engineering team (most likely), budget or total timeline for the project, so it's difficult to make fully accurate guesses. This is a jumping off point to help brainstorm, that can be pivoted upon later with research and engineering input.
+
+<br>
+
+## Asking Questions
+
+Our next step is to start with the `High Risk` and `Unknown` features and turn each one into a hypothsis that we can research and answer.
+
+For example, with our fully featured app store feature, the client might expand upon it by providing their reasoning:
+
+```
+Having a fully featured app store within our messaging app Flutter will increase revenue by charging users for enhanced functionality and by increasing continued engagement by improving application functionality.
+```
+
+We need to ask questions that might validate whether or not their perspective is true for their user base?
+
+![Research Questions](./ResearchQs.png "Research Questions")
+
+<br>
+
+This list shows how we might need to do competitive analysis, via a user survey, etc..
+
+The black questions would be ideally dealt with via competitive analysis.
+
+The blue questions would be best asked via a survey.
+
+The green questions could be asked via an interview.
+
+The _how are the users using_  or _would the users use the product if_, could be asked with a contextual inquiry. We want to see their behavior.
+
+
+<br>
+
+Our answers can be found through several different types of research studies too.
+
+Ideally we would then place these questions under columns in a Kanban board (or similar), duplicating questions that would fit several research options.
+
+![Kanban Organization](./Kanban.png "Kanban Organization")
+
+<br>
+
+When conducting user research, you need to guide the interview to a place where you're getting honest answers and making the user comfortable, but without supplying answers or bias.
+
+[This research interview guide template](https://docs.google.com/document/d/1GzNaxRPZBrhnb6TWgz0LS1xq9UbL7a5ffqCZ09Xrb0g/edit?usp=sharing) is a great script to base your interactions with user off of during testing:
+
+![Research Interview Guide Template](./InterviewGuide.png "Research Interview Guide Template")
+
+<br>
+
+Make sure to always get permission before recording a user.
+
+If they ask if you created this project, you can give a true but vague answer like, "I'm part of the design team," to avoid them feeling hesitant to give real feedback.
+
+<br>
+
+[Today's project](https://docs.google.com/document/d/1X4x7Y3NJaukchTuj0dqV7I6iBDTuxxKvKJtl-NxM6CM/edit) will be practicing evaluating assumptions and determining research methods to the Newsies News product brief. 
+
+<br>
+<br>
 
 ## Student Toolkit Information
 
