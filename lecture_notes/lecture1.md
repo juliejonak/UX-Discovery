@@ -22,7 +22,7 @@ e. [Student Toolkit Information](#Student-Toolkit-Information)  <br>
 #### Assignment
 
 [Research Planning UX8 - Glenn Ference](https://youtu.be/38N-MLpaWlw) 
-[Research Planning UXPT3 - Corey Nelson]()   
+[Research Planning UXPT3 - Corey Nelson](https://youtu.be/Ey7z7GQ12r8)   
 
 [Research Planning Assignment](https://docs.google.com/document/d/1X4x7Y3NJaukchTuj0dqV7I6iBDTuxxKvKJtl-NxM6CM/edit)  
 
