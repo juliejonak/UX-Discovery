@@ -3,14 +3,15 @@
 Table of Contents:  
 
 a. [Additional Resources](#Additional-Resources)  <br>  
-b. [](#)  <br>  
-c. [](#)  <br>  
-d. [](#)  <br>  
-e. [](#)  <br>  
-f. [](#)  <br>  
-g. [](#)  <br>  
-h. [](#)  <br>  
-i. [](#)  <br>    
+b. [Contextual Inquiry](#Contextual-Inquiry)  <br>  
+c. [Preparation](#Preparation)  <br>  
+d. [Conducting Research](#Conducting-Research)  <br>  
+e. [Organizing Findings](#Organizing-Findings)  <br>  
+f. [Recording Interviews](#Recording-Interviews)  <br>  
+g. [Asking Open Questions](#Asking-Open-Questions)  <br>  
+h. [Informed Consent](#Informed-Consent)  <br>  
+i. [Leaving the Office](#Leaving-the-Office)  <br>    
+j. [Leave Your Knowledge Behind](#Leave-Your-Knowledge-Behind)  <br>    
 
 <br>
 
@@ -32,6 +33,9 @@ i. [](#)  <br>
 
 #### Other Cool Links
 
+[Consent Form](https://docs.google.com/document/d/1yKFeVmch1NkZGsh-AuyLz-eukd9ocrfktC4zoO_p6FQ/edit)  
+
+[Sample Interview Guide](https://docs.google.com/document/d/1aBjo3jtO0wjElHAJun05MAq4U-Q9nZ0AseQkovJNUic/edit#)  
 
 <br>
 
