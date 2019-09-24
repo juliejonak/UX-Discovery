@@ -27,7 +27,8 @@ j. [Leave Your Knowledge Behind](#Leave-Your-Knowledge-Behind)  <br>
 
 #### Assignment
 
-[Contextual Research UX8 - Glenn Ference](https://youtu.be/CYcMva3oN1c)  
+[Contextual Research UX8 - Glenn Ference](https://youtu.be/CYcMva3oN1c) 
+[Contextual Research UXPT3 - Corey Nelson](https://youtu.be/xGcI74RscP8)   
 
 [Contextual Research Assignment](https://docs.google.com/document/d/17kJ4wYRMtAhWkt3Ql1BhuGB9kLu3rWR94G0jqDbZoug/edit)  
 
