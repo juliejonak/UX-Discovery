@@ -26,7 +26,7 @@ i. [](#)  <br>
 #### Assignment
 
 [Secondary Research UX8 - Glenn Ference](https://www.youtube.com/watch?v=mTHtp3fbmDo&feature=youtu.be)  
-[Secondary Research UXPT3 - Corey Nelson]()  
+[Secondary Research UXPT3 - Corey Nelson](https://youtu.be/_Xx-V-KWPkk)    
 
 [Secondary Research Assignment](https://docs.google.com/document/d/1I4cvBlDO712EAfFgawquiTvEV5KSboauCBQdN3tJp7s/edit)  
 
@@ -115,7 +115,11 @@ Zapier provides an excellent example of how framing a survey question can lead t
 
 <br>
 
-Another important point is to have an "Other" user input option on as many questions as possible, in case your given choices don't provide the right answer for the user, like in [this survey](https://docs.google.com/forms/d/e/1FAIpQLScH-b23lP46pWoaiHDO-QuxAnW-HvGrfljr_ybBhE8y3ptcBg/viewform). Google Forms is a great tool for creating easy to share surveys.
+Another important point is to have an "Other" user input option on as many questions as possible, in case your given choices don't provide the right answer for the user, like in [this survey](https://docs.google.com/forms/d/e/1FAIpQLScH-b23lP46pWoaiHDO-QuxAnW-HvGrfljr_ybBhE8y3ptcBg/viewform). 
+
+Google Forms is a great tool for creating easy to share surveys. When using multiple choices questions on a Google Form, if a user selects an answer that makes them unlikely to need to answer other specific related questions, you can opt to have them auto-skipped to the next section that will pertain to them.
+
+I.e. If you're asking questions about a user attending movies, if they say they don't purchase tickets in advance, you can skip them past the next 3 questions that find out more about how they purchase those in advance.
 
 <br>
 <br>
