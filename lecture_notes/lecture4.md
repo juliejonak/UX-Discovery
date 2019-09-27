@@ -3,14 +3,14 @@
 Table of Contents:  
 
 a. [Additional Resources](#Additional-Resources)  <br>  
-b. [](#)  <br>  
-c. [](#)  <br>  
-d. [](#)  <br>  
-e. [](#)  <br>  
-f. [](#)  <br>  
-g. [](#)  <br>  
-h. [](#)  <br>  
-i. [](#)  <br>    
+b. [Embracing Ambiguity](#Embracing-Ambiguity)  <br>  
+c. [Design Synthesis](#Design-Synthesis)  <br>  
+d. [Externalize Data](#Externalize-Data)  <br>  
+e. [Write Down Your Top Five Ideas](#Write-Down-Your-Top-Five-Ideas)  <br>  
+f. [Affinity Map](#Affinity-Map)  <br>  
+g. [Insight Statements](#Insight-Statements)  <br>  
+h. [How Might We](#How-Might-We)  <br>  
+i. [Presenting User Research Results](#Presenting-User-Research-Results)  <br>    
 
 <br>
 
