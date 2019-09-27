@@ -3,14 +3,10 @@
 Table of Contents:  
 
 a. [Additional Resources](#Additional-Resources)  <br>  
-b. [](#)  <br>  
-c. [](#)  <br>  
-d. [](#)  <br>  
-e. [](#)  <br>  
-f. [](#)  <br>  
-g. [](#)  <br>  
-h. [](#)  <br>  
-i. [](#)  <br>    
+b. [Creating a Survey](#Creating-a-Survey)  <br>  
+c. [Creating Questions](#Creating-Questions)  <br>  
+d. [Competitive Research](#Competitive-Research)  <br>  
+e. [Competitive Analysis](#Competitive-Analysis)  <br>  
 
 <br>
 
