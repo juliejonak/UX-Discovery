@@ -42,6 +42,8 @@ i. [](#)  <br>
 
 [How Might We Statements](http://www.designkit.org/methods/3)  
 
+[Example Discovery Research Report](https://docs.google.com/document/d/1_v-lf6P2m3qw-24RzWjlrmmDbv5ZvsVM2m2mErxnxeg/edit#)  
+
 <br>
 
 ## Embracing Ambiguity
@@ -90,6 +92,8 @@ Each post-it note should be representative of _one data point_.
 
 For example, these data points are your observations, memorable quotes from your stakeholder interviews, competitive research, click paths and more. As you’re writing these on a Post-it, it’s important to write big and legibly so that it’s easy to read.
 
+<br>
+
 After everyone has written their notes, it’s time to add them to the wall. Spend a few seconds talking about each Post-it by describing your impression of the experience.
 
 When working with a group of team members, it’s important to stay organized. 
@@ -100,6 +104,12 @@ For example, if you’re working with a small sample size, each participant can 
 At the end of this exercise, it should feel like you’re in a giant war room full of Post-it notes and it should look similar to the photo we see on the right.
 
 Learn more about Downloading Your Learnings [here](http://www.designkit.org/methods/12).
+
+<br>
+
+[Here](https://miro.com/welcomeonboard/41Hh2QO719piQnRhLqc0c0UazKenCoSwAtodpqir2qvPJuonVb9DYMXVBPX2UE4z) is an example layout of Externalized Data:
+
+![Externalize Data](./ResearchAnalysis1.png "Externalize Data")
 
 <br>
 
@@ -124,6 +134,12 @@ Jon Kolko explains that the process is less about finding the “right” relati
 After some time, you’ll begin to see clusters like the one above that should be identified by a theme.
 
 Learn more about Finding Themes [here](http://www.designkit.org/methods/5).
+
+[Here](https://miro.com/welcomeonboard/41Hh2QO719piQnRhLqc0c0UazKenCoSwAtodpqir2qvPJuonVb9DYMXVBPX2UE4z) is an example of turning externalized data into an affinity map:
+
+![Affinity Map 2](./ResearchAnalysis2.png "Affinity Map 2")
+
+![Affinity Map 3](./ResearchAnalysis3.png "Affinity Map 3")
 
 
 <br>
@@ -169,6 +185,8 @@ First, focus on your findings by displaying them visually by levels of severity.
 <br>
 
 You may also choose to supplement this grid by showcasing visuals. These visuals can include what parts tested well and what parts appeared challenging to participants.
+
+[Here](https://docs.google.com/document/d/1_v-lf6P2m3qw-24RzWjlrmmDbv5ZvsVM2m2mErxnxeg/edit#) is an example Research Report.
 
 <br>
 
